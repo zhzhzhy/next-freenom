@@ -1,4 +1,3 @@
-Deploy trigger 
 <div align="center">
 
 ![freenom logo](https://s1.ax1x.com/2022/03/10/bhzMG9.png)
