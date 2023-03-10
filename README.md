@@ -36,7 +36,7 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/main
 
 [📦 通过 Koyeb 部署](#-通过-Koyeb-部署)（推荐没有自己服务器的用户使用此方案，一键部署）
 
-[🧪 通过 Mogenius 部署](#-通过-Mogenius-部署)（如果你无法注册 Koyeb 账户，可以考虑在 Mogenius 部署）
+[🧪 通过 Mogenius 部署](#-通过-Mogenius-部署)（已不可行）
 
 [☁ 通过 各种云函数 部署](#-通过各种云函数部署)
 
@@ -454,7 +454,7 @@ systemctl restart docker
 
 ### 🧪 通过 Mogenius 部署
 
-暂时没时间写详细教程，有兴趣的可以自己尝试一下。参考我此处的说明事项： [https://github.com/luolongfei/freenom/issues/146](https://github.com/luolongfei/freenom/issues/146) 
+已下线免费套餐，不再可用。 [https://github.com/luolongfei/freenom/discussions/208](https://github.com/luolongfei/freenom/discussions/208) 
 
 ***
 
@@ -503,9 +503,11 @@ PayPal: [https://www.paypal.me/mybsdc](https://www.paypal.me/mybsdc)
 
 > Every time you spend money, you're casting a vote for the kind of world you want. -- Anna Lappe
 
-![pay](https://s2.ax1x.com/2020/01/31/1394at.png "Donation")
+![pay](https://images.llfapp.com/pay.png "Donation")
 
 ![每一次你花的钱都是在为你想要的世界投票。](https://s2.ax1x.com/2020/01/31/13P8cF.jpg)
+
+题外话：赞助的时候可以留言，留言内容将被展示在 [赞助列表画面](https://github.com/luolongfei/freenom/wiki/Donation-List) 。如果赞助图片未能正常显示，请访问： [https://images.llfapp.com/pay.png](https://images.llfapp.com/pay.png)
 
 **你的`star`或者`赞助`是我长期维护此项目的动力所在，由衷感谢每一位支持者，“每一次你花的钱都是在为你想要的世界投票”。 另外，将本项目推荐给更多的人，也是一种支持的方式，用的人越多更新的动力越足。**
 
